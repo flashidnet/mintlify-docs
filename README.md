@@ -1,43 +1,172 @@
-# Mintlify Starter Kit
+# 🌐 **FlashID — Free Anti-Detect Browser + Cloud Phone for Multi-Account Growth**
 
-Use the starter kit to get your docs deployed and ready to customize.
+**FlashID** is an all-in-one platform designed for secure multi-account operations, automation, and global growth.
+It combines a **Free Anti-Detect Browser**, **Cloud Phone**, and **isolated fingerprint profiles** — trusted by developers, growth teams, and cross-border operators.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+✨ **100% Free Browser Profiles**
+✨ **Advanced Fingerprint Simulation**
+✨ **Cloud Phone Environment Isolation**
+✨ **Automation-ready**
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+🔗 **Website:** [https://www.flashid.net](https://www.flashid.net)
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+🔗 **Download:** [https://www.flashid.net/download](https://www.flashid.net/download)
 
-## Development
+🔗 **Telegram Community:** [https://t.me/FlashID_global](https://t.me/FlashID_global)
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+🔗 **Pricing / Free Profiles:** [https://www.flashid.net/pricing](https://www.flashid.net/pricing)
 
-```
-npm i -g mint
-```
+---
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+# 🚀 Features
 
-```
-mint dev
-```
+### 🔒 **Anti-Detect Browser**
 
-View your local preview at `http://localhost:3000`.
+* Realistic, stable fingerprint simulation
+* Chrome-based engine (Chrome 142 supported)
+* Canvas / WebGL / WebRTC / Audio isolation
+* Hardware Noise Toggle
+* Independent browser profiles
+* Multi-device sync
 
-## Publishing changes
+### 📱 **Cloud Phone (Virtual Device Engine)**
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+* Device-level isolation
+* Multiple cloud devices running in parallel
+* Geo-based IP operation
+* Suitable for TikTok / Facebook / Google / Ads / E-commerce
 
-## Need help?
+### 🧩 **Proxy & Network Control**
 
-### Troubleshooting
+* Support all proxy types (HTTP / SOCKS / Residential / Mobile / Datacenter)
+* Geo-location customization
+* Stability-tested with major proxy providers
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+### 🧪 **Fingerprint Test**
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+* Pass major fingerprint detection sites
+* Stable output (noise does not regenerate unintentionally)
+
+---
+
+# 📖 Tutorials & Guides
+
+### 🔧 Proxy Configuration
+
+* How to set Bright Data, IPRoyal, SmartProxy, etc.
+* Troubleshooting network mismatches
+* Best practices for multi-account IP rotation
+
+### 🧪 Fingerprint Test Guide
+
+* Canvas test
+* WebGL test
+* AudioContext test
+* Fonts isolation behavior
+
+### ⚙️ Automation Setup (Examples)
+
+> FlashID does not expose public API yet, but automation can be integrated through standard browser automation tools.
+
+* Selenium example (Python)
+* Playwright example (Node.js)
+* Browser startup parameters
+
+---
+
+# 🗂 Example Repositories (Recommended for your organization)
+
+We suggest creating these additional repos under the FlashID GitHub org:
+
+| Repo                         | Purpose                                 |
+| ---------------------------- | --------------------------------------- |
+| `flashid-proxy-setup`        | Proxy configuration tutorials           |
+| `flashid-automation-samples` | Python/Node.js automation examples      |
+| `flashid-fingerprint-tests`  | Fingerprint test results & explanations |
+| `flashid-cloudphone-guide`   | Cloud phone usage tutorials             |
+| `flashid-community-tools`    | User-created scripts & configs          |
+
+---
+
+# 📥 Installation
+
+### **Windows / macOS**
+
+1. Download FlashID:
+   [https://www.flashid.net/download](https://www.flashid.net/download)
+2. Install & create your workspace
+3. Create your first profile
+4. Add proxy, configure environment, and launch
+
+### **Linux (Coming soon)**
+
+We are preparing an official Linux build.
+
+---
+
+# 🧑‍🤝‍🧑 Community
+
+Join our Telegram community for updates, events, and early-access benefits:
+
+👉 [https://t.me/FlashID_global](https://t.me/FlashID_global)
+
+We regularly host:
+
+* 🎁 Free profile events
+* 🎖 Special invitation code campaigns
+* 🧪 Beta test access
+* 📢 Security & feature updates
+
+---
+
+# 🤝 Contribute
+
+FlashID welcomes all contributions!
+You can help by:
+
+* Submitting tutorials
+* Fixing documentation
+* Adding automation examples
+* Sharing proxy configuration guides
+* Reporting issues or bugs
+* Creating community tools
+
+💜 **Contributors can earn special-access invitation codes and free lifetime profiles.**
+
+---
+
+# ⭐ Support FlashID
+
+If you find FlashID useful, please support us by giving the repo a **star ⭐**!
+Your support helps the community grow and motivates us to build even better tools.
+
+---
+
+# 🛡 Security & Privacy
+
+FlashID is built with a strong focus on security:
+
+* Data isolation
+* Local-only profile storage
+* SOC2 Type 2 Certification (2025)
+* No hidden data collection
+
+We NEVER store sensitive user operations.
+
+---
+
+# 📬 Contact
+
+* Website: [https://www.flashid.net](https://www.flashid.net)
+* Email: [support@flashid.net](mailto:support@flashid.net)
+* Telegram Group: [https://t.me/FlashID_global](https://t.me/FlashID_global)
+
+---
+
+# 🔚 End
+
+This README is designed for:
+✔ SEO
+✔ Developer onboarding
+✔ Technical credibility
+✔ Building community trust
